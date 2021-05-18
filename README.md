@@ -9,17 +9,4 @@ This hobby project describes how to create a fully custom programable LED Cube u
 - 56 LED's (Yellow)
 - a steady soldering hand
 
-
-
-**Version 1**
-Problems:
-
-
-[Link to video of the result)](https://s3.gifyu.com/images/ezgif.com-gif-maker2d098096f9595b45.gif)
-
-
-[![ezgif.com-gif-maker2d098096f9595b45.gif](https://s3.gifyu.com/images/ezgif.com-gif-maker2d098096f9595b45.gif)](https://gifyu.com/image/D95q)
-
-[![ezgif.com-gif-maker2d098096f9595b45.md.gif](https://s3.gifyu.com/images/ezgif.com-gif-maker2d098096f9595b45.md.gif)](https://gifyu.com/image/D95q)
-
-[![ezgif.com-gif-maker2d098096f9595b45.th.gif](https://s3.gifyu.com/images/ezgif.com-gif-maker2d098096f9595b45.th.gif)](https://gifyu.com/image/D95q)
+[Link to video of the result](https://s3.gifyu.com/images/ezgif.com-gif-maker2d098096f9595b45.gif)
