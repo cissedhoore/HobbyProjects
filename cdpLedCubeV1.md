@@ -14,6 +14,7 @@
 
 ### Improvements
 - Creation an individual PCB.
+- Creation of a software driver to control the Led-Cube.
 - Adding more leds by using an I/O expander.
 - Addition of a powersource and resistors at the anode of the leds to avoid the change in brightness.
 - Adding a wireless reciever module.
